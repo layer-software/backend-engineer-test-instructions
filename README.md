@@ -54,7 +54,7 @@ Consider the challenge as you would do it at work, with all best practices you k
 
 ## Deliverables
 
-- Create a  **private** repository on GitHub (they are free). When you finish the challenge, invite `bez4pieci` as a collaborator to the repository you created and send a notification e-mail to [ernests@golayer.io](mailto:ernests@golayer.io).
+- Create a  **private** repository on GitHub (they are free). When you finish the challenge, invite `bez4pieci` as a collaborator to the repository you created and send a notification e-mail to [careers@golayer.io](mailto:careers@golayer.io) (reply to the email where you received the code challenge).
 - Write your solution in code, and use multiple commits.
 - It is not required but if you like you can attach all documents, mockups, or diagrams which help you develop the code.
 - We will appreciate additional information about
