@@ -52,9 +52,14 @@ Consider the challenge as you would do it at work, with all best practices you k
 - Your implementation can stop at application level. Do not focus on the REST or GraphQL controllers.
 - Please do not focus on persistence or database. If you wish it also can be skipped altogether.
 
+## Timeline
+
+- As a rule, you shouldn't spend more than 6-7 hours on the taks in total.
+- **Tell us about the date** when you will send in the result by replying to [careers@golayer.io](mailto:careers@golayer.io). We don't mind if you take more time - it will not affect the evaluation.
+
 ## Deliverables
 
-- Create a  **private** repository on GitHub (they are free). When you finish the challenge, invite `bez4pieci` as a collaborator to the repository you created and send a notification e-mail to [careers@golayer.io](mailto:careers@golayer.io) (reply to the email where you received the code challenge).
+- **Create a private repository** on GitHub (they are free). When you finish the challenge, invite `bez4pieci` as a collaborator to the repository you created and send a notification e-mail to [careers@golayer.io](mailto:careers@golayer.io) (reply to the email where you received the code challenge).
 - Write your solution in code, and use multiple commits.
 - It is not required but if you like you can attach all documents, mockups, or diagrams which help you develop the code.
 - We will appreciate additional information about
