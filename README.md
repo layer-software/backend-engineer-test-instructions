@@ -52,10 +52,11 @@ Consider the challenge as you would do it at work, with all best practices you k
 - Your implementation can stop at application level. Do not focus on the REST or GraphQL controllers.
 - Please do not focus on persistence or database. If you wish it also can be skipped altogether.
 
-## Timeline
+## Steps
 
-- As a rule, you shouldn't spend more than 6-7 hours on the taks in total.
-- **Tell us about the date** when you will send in the result by replying to [careers@golayer.io](mailto:careers@golayer.io). We don't mind if you take more time - it will not affect the evaluation.
+- First, think about a challenge, and before you start coding [schedule a 20 minute check-in call](https://meetings.hubspot.com/ernests/20-minute-check-in) with Ernests to go through questions you might have and present your approach to the challenge.
+- Also, during the call we will expect you to tell us when you will send in the result. However, faster is not necessarily better. The time you take won't affect the evaluation.
+- The challenge itself shouldn't take more than 6 hours in total of your time.
 
 ## Deliverables
 
@@ -65,3 +66,5 @@ Consider the challenge as you would do it at work, with all best practices you k
 - We will appreciate additional information about
     - how you gathered all required information for architecting the domain model
     - how you came up with assumptions
+
+Happy solving!
