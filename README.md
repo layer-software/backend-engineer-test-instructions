@@ -35,14 +35,19 @@ In your preferred language write an application that covers 3 of the user storie
 
 ## **Evaluation criteria**
 
-The most important part for us is the domain model. We appreciate DDD solutions. Technology stack is up to you but please remember that it's not the technicalities that impress us. 
+The most important part for us is the domain model. We really like to see DDD solutions. 
+
+Technology stack is up to you but please remember that it's not the technicalities that impress us. 
+We really do not expect to see event-sourcing or a fully functional implementation unless that's what you feel most at home with.
+
+You can choose the language you feel most comfortable with, however we have a slight preference for Java or Kotlin.
 
 Consider the challenge as you would do it at work, with all best practices you know. Feel free to use any input for the domain logic you feel is needed. API, CLI, Acceptance tests etc.
 
 ### What we judge
 
 - Your modelling skills. Is it possible to understand the problem from the code?
-- You follow best practices appropriate to your language of choice
+- You follow best practices appropriate to the language.
 - Code is organised, clean and readable.
 - Code is maintainable.
 
