@@ -44,8 +44,6 @@ You can choose the language you feel most comfortable with, however we have a sl
 
 Consider the challenge as you would do it at work, with all best practices you know. Feel free to use any input for the domain logic you feel is needed. API, CLI, Acceptance tests etc.
 
-The challenge itself shouldn't take more than 5-6 hours in total of your time.
-
 ### What we judge
 
 - Your modelling skills. Is it possible to understand the problem from the code?
@@ -58,6 +56,10 @@ The challenge itself shouldn't take more than 5-6 hours in total of your time.
 - We don't judge GUI so please do not focus on that.
 - Your implementation can stop at application level. Do not focus on the REST or GraphQL controllers.
 - Please do not focus on persistence or database. If you wish it also can be skipped altogether.
+
+## Process
+
+Check out the [Interview Process](https://goto.golayer.io/culture-interviewprocess) for more information.
 
 ## Deliverables
 
